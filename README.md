@@ -69,7 +69,7 @@ npm install
 
 ## 📌 链接
 
-- **仓库**：（待创建）
+- **仓库**：https://github.com/nqge/crypto-analyzer-5
 - **作者**：（查看 README.md）
 - **许可**：（查看 LICENSE 文件）
 
